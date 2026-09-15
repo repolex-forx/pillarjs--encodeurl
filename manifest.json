@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "pillarjs",
+  "repo": "encodeurl",
+  "versions": [
+    {
+      "commit": "5f2205efe622fc7972c4e45ed7cbe7f8d652c299",
+      "parsed_at": "2026-09-15T23:25:59.085536+00:00",
+      "tag": "v2.0.0",
+      "filetree": "filetree/5f2205efe622fc7972c4e45ed7cbe7f8d652c299.nq.gz",
+      "blobs": [
+        "blob/9808c3b2b6602da61eb4afcb4caf33368e3e2bd4.nq.gz",
+        "blob/62562b74a3b5a79e82ca417b02e0f597d85f5e2f.nq.gz",
+        "blob/0fa6951f088d91e437ea25699ee715cc6cf462a0.nq.gz",
+        "blob/e9706e01aca54253e14af5c47b28a1797edd1ce9.nq.gz",
+        "blob/313382214599a9b52a408282b40c3f907407a30a.nq.gz",
+        "blob/3842493ec68e8eb5a5377fa4c3a33e454be4e882.nq.gz",
+        "blob/a49ee5a0b62136da6524703314e88b4199c4c208.nq.gz",
+        "blob/1eece14ad8cb98de2093fac5eef5ccee89472ff8.nq.gz",
+        "blob/3601cf6bb898a92efdbaae07559e14e0a3dbf5d0.nq.gz",
+        "blob/8812229bc59b5f365549fb3c799b32a4d4acdabc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
